@@ -1,4 +1,6 @@
-# SPAAM Summer School: Introduction to Ancient Metagenomics - Github Practise
+# SPAAM Summer School: Introduction to Ancient Metagenomics
+
+## Github Practise
 
 Empty repository for practising GitHub forking and pull requests.
 
